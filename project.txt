@@ -1,2 +1,4 @@
 This is a project
+git checkout -b feature/login
 I complete featureB
+
