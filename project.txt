@@ -2,5 +2,5 @@ This is a project
 git checkout -b feature/login
 I complete featureB
 I complete featureC
-¸øÄúÕûµã³åÍ»£¬billibili
+test conflict
 
